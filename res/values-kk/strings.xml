@@ -28,9 +28,9 @@
     <string name="exit" msgid="1905187380359981199">"Шығу"</string>
     <string name="settings_with_arrow" msgid="8534633224579301342">"Параметрлер &gt;"</string>
     <string name="settings" msgid="1045695083932447399">"Параметрлер"</string>
-    <string name="required_permissions_promo" msgid="3898014894175251590">"Messaging қолданбасына SMS, \"Телефон\" және \"Контактілер\" қолданбаларына рұқсат қажет."</string>
-    <string name="enable_permission_procedure" msgid="2778471831376319587">"Рұқсаттарды \"Параметрлер\" &gt; \"Қолданбалар\" &gt; \"Messaging\" &gt; \"Рұқсаттар\" тармағында өзгертуге болады."</string>
-    <string name="enable_permission_procedure_description" msgid="8672121020793945630">"Рұқсаттарды \"Параметрлер\", \"Қолданбалар\", \"Messaging\", \"Рұқсаттар\" тармағында өзгерте аласыз."</string>
+    <string name="required_permissions_promo" msgid="3898014894175251590">"Messages қолданбасына SMS, \"Телефон\" және \"Контактілер\" қолданбаларына рұқсат қажет."</string>
+    <string name="enable_permission_procedure" msgid="2778471831376319587">"Рұқсаттарды \"Параметрлер\" &gt; \"Қолданбалар\" &gt; \"Messages\" &gt; \"Рұқсаттар\" тармағында өзгертуге болады."</string>
+    <string name="enable_permission_procedure_description" msgid="8672121020793945630">"Рұқсаттарды \"Параметрлер\", \"Қолданбалар\", \"Messages\", \"Рұқсаттар\" тармағында өзгерте аласыз."</string>
     <string name="contact_picker_frequents_tab_title" msgid="7157326165824706883">"Жиі қолданылатын"</string>
     <string name="contact_picker_all_contacts_tab_title" msgid="1424746082040243161">"Барлық контактілер"</string>
     <string name="contact_list_send_to_text" msgid="3167455944684758290">"<xliff:g id="DESTINATION">%s</xliff:g> орнына жіберу"</string>
@@ -59,7 +59,7 @@
     <string name="class_0_message_activity" msgid="4603850264073169854">"0 сыныпты хабар"</string>
     <string name="save" msgid="5081141452059463572">"Сақтау"</string>
     <string name="enter_phone_number_title" msgid="7263355879949248448">"Телефон нөміріңізді растау"</string>
-    <string name="enter_phone_number_text" msgid="4539767473801195966">"Бұл бір реттік қадам Messaging қолданбасының топтық хабарларды тиісті түрде жеткізуін қамтамасыз етеді."</string>
+    <string name="enter_phone_number_text" msgid="4539767473801195966">"Бұл бір реттік қадам Messages қолданбасының топтық хабарларды тиісті түрде жеткізуін қамтамасыз етеді."</string>
     <string name="enter_phone_number_hint" msgid="6242965213882272822">"Телефон нөмірі"</string>
     <string name="incoming_text_sender_content_description" msgid="2481078288502342745">"<xliff:g id="SENDER">%s</xliff:g> айтты"</string>
     <string name="outgoing_text_sender_content_description" msgid="3492116976256510272">"Сіз айттыңыз"</string>
@@ -82,13 +82,13 @@
     <string name="unknown_sender" msgid="504272434917395677">"Белгісіз хабар жіберуші"</string>
     <string name="delivered_status_content_description" msgid="3433965196058436991">"Жеткізілді"</string>
     <string name="notification_send_failures_line1_singular" msgid="6783835440207655217">"Хабар жіберілмеді"</string>
-    <string name="notification_send_failures_line1_plural" msgid="7228944748028969272">"Messaging қолданбасында кейбір хабарлар жіберілмеген"</string>
+    <string name="notification_send_failures_line1_plural" msgid="7228944748028969272">"Messages қолданбасында кейбір хабарлар жіберілмеген"</string>
     <plurals name="notification_send_failures" formatted="false" msgid="6938919932879650691">
       <item quantity="other"><xliff:g id="CONVERSATIONS">%d</xliff:g> сөйлесуде <xliff:g id="MESSAGES_1">%d</xliff:g> хабар</item>
       <item quantity="one">бір сөйлесуде <xliff:g id="MESSAGES_0">%d</xliff:g> хабар</item>
     </plurals>
     <string name="notification_download_failures_line1_singular" msgid="4424772073720626885">"Хабар жүктелмеген"</string>
-    <string name="notification_download_failures_line1_plural" msgid="1697982467160426345">"Messaging қолданбасында кейбір хабарлар жүктелмеген"</string>
+    <string name="notification_download_failures_line1_plural" msgid="1697982467160426345">"Messages қолданбасында кейбір хабарлар жүктелмеген"</string>
     <plurals name="notification_download_failures" formatted="false" msgid="5341490525457911398">
       <item quantity="other"><xliff:g id="CONVERSATIONS">%d</xliff:g> сөйлесуде <xliff:g id="MESSAGES_1">%d</xliff:g> хабар</item>
       <item quantity="one">бір сөйлесуде <xliff:g id="MESSAGES_0">%d</xliff:g> хабар</item>
@@ -168,7 +168,7 @@
     <string name="group_outgoing_successful_message_prefix" msgid="1593702642852987920">"<xliff:g id="GROUP">%1$s</xliff:g> тобына хабар: <xliff:g id="MESSAGE">%2$s</xliff:g>. Уақыт: <xliff:g id="TIME">%3$s</xliff:g>."</string>
     <string name="failed_message_content_description" msgid="7047161648867054936">"Сәтсіз хабар. Қайталау үшін түртіңіз."</string>
     <string name="delete_subject_content_description" msgid="8910749398836396698">"Тақырыпты жою"</string>
-    <string name="photo_view_activity_title" msgid="6556006393051918135">"Messaging фотосуреттері"</string>
+    <string name="photo_view_activity_title" msgid="6556006393051918135">"Messages фотосуреттері"</string>
     <plurals name="photos_saved_to_album" formatted="false" msgid="7529478299745446838">
       <item quantity="other"><xliff:g id="QUANTITY_2">%d</xliff:g> фотосурет «<xliff:g id="ALBUMNAME_3">%s</xliff:g>» альбомына сақталды</item>
       <item quantity="one"><xliff:g id="QUANTITY_0">%d</xliff:g> фотосурет «<xliff:g id="ALBUMNAME_1">%s</xliff:g>» альбомына сақталды</item>
@@ -395,7 +395,7 @@
     <string name="attachment_limit_reached_dialog_message_when_composing" msgid="2983376679583030373">"Бір немесе бірнеше тіркемені жойып, әрекетті қайталаңыз."</string>
     <string name="attachment_limit_reached_dialog_message_when_sending" msgid="3917529855170816197">"Хабарды жіберіп көре аласыз, бірақ бір немесе бірнеше тіркемені жоймасаңыз, ол жеткізілмеуі мүмкін."</string>
     <string name="video_attachment_limit_exceeded_when_sending" msgid="8545536951461996462">"Әр хабарламада бір ғана бейне жіберуге болады. Қосымша бейнелерді жойып, әрекетті қайталаңыз."</string>
-    <string name="attachment_load_failed_dialog_message" msgid="4917927407363303333">"Messaging тіркемені жүктей алмады."</string>
+    <string name="attachment_load_failed_dialog_message" msgid="4917927407363303333">"Messages тіркемені жүктей алмады."</string>
     <string name="attachment_limit_reached_send_anyway" msgid="2348790618093735551">"Бәрібір жіберу"</string>
     <string name="conversation_creation_failure" msgid="8597624563218724441">"Сөйлесуді бастау мүмкін болмады"</string>
     <string name="selected_sim_content_message" msgid="4504796674843354505">"<xliff:g id="SELECTED_SIM">%s</xliff:g> таңдалған"</string>

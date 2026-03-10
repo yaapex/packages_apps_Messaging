@@ -28,9 +28,9 @@
     <string name="exit" msgid="1905187380359981199">"Kilépés"</string>
     <string name="settings_with_arrow" msgid="8534633224579301342">"Beállítások &gt;"</string>
     <string name="settings" msgid="1045695083932447399">"Beállítások"</string>
-    <string name="required_permissions_promo" msgid="3898014894175251590">"A Messaging engedélyt kér a következőkhöz: SMS, telefon és névjegyek."</string>
-    <string name="enable_permission_procedure" msgid="2778471831376319587">"Az engedélyeket a Beállítások &gt; Alkalmazások &gt; Messaging &gt; Engedélyek lehetőségnél módosíthatja."</string>
-    <string name="enable_permission_procedure_description" msgid="8672121020793945630">"Az engedélyeket a Beállítások, Alkalmazások, Messaging, Engedélyek lehetőségnél módosíthatja."</string>
+    <string name="required_permissions_promo" msgid="3898014894175251590">"A Messages engedélyt kér a következőkhöz: SMS, telefon és névjegyek."</string>
+    <string name="enable_permission_procedure" msgid="2778471831376319587">"Az engedélyeket a Beállítások &gt; Alkalmazások &gt; Messages &gt; Engedélyek lehetőségnél módosíthatja."</string>
+    <string name="enable_permission_procedure_description" msgid="8672121020793945630">"Az engedélyeket a Beállítások, Alkalmazások, Messages, Engedélyek lehetőségnél módosíthatja."</string>
     <string name="contact_picker_frequents_tab_title" msgid="7157326165824706883">"Gyakran használt névjegyek"</string>
     <string name="contact_picker_all_contacts_tab_title" msgid="1424746082040243161">"Az összes névjegy"</string>
     <string name="contact_list_send_to_text" msgid="3167455944684758290">"Küldés: <xliff:g id="DESTINATION">%s</xliff:g>"</string>
@@ -59,7 +59,7 @@
     <string name="class_0_message_activity" msgid="4603850264073169854">"0. osztályú üzenet"</string>
     <string name="save" msgid="5081141452059463572">"Mentés"</string>
     <string name="enter_phone_number_title" msgid="7263355879949248448">"Telefonszám megerősítése"</string>
-    <string name="enter_phone_number_text" msgid="4539767473801195966">"Ez az egyszeri lépés biztosítja, hogy a Messaging megfelelően továbbítsa a csoportos üzeneteket."</string>
+    <string name="enter_phone_number_text" msgid="4539767473801195966">"Ez az egyszeri lépés biztosítja, hogy a Messages megfelelően továbbítsa a csoportos üzeneteket."</string>
     <string name="enter_phone_number_hint" msgid="6242965213882272822">"Telefonszám"</string>
     <string name="incoming_text_sender_content_description" msgid="2481078288502342745">"<xliff:g id="SENDER">%s</xliff:g> a következőt mondta:"</string>
     <string name="outgoing_text_sender_content_description" msgid="3492116976256510272">"Ön a következőt mondta"</string>
@@ -82,13 +82,13 @@
     <string name="unknown_sender" msgid="504272434917395677">"Ismeretlen feladó"</string>
     <string name="delivered_status_content_description" msgid="3433965196058436991">"Kézbesítve"</string>
     <string name="notification_send_failures_line1_singular" msgid="6783835440207655217">"A rendszer nem küldte el az üzenetet"</string>
-    <string name="notification_send_failures_line1_plural" msgid="7228944748028969272">"A Messaging egyes üzeneteit nem lehetett elküldeni"</string>
+    <string name="notification_send_failures_line1_plural" msgid="7228944748028969272">"A Messages egyes üzeneteit nem lehetett elküldeni"</string>
     <plurals name="notification_send_failures" formatted="false" msgid="6938919932879650691">
       <item quantity="other"><xliff:g id="MESSAGES_1">%d</xliff:g> üzenet <xliff:g id="CONVERSATIONS">%d</xliff:g> beszélgetésben</item>
       <item quantity="one"><xliff:g id="MESSAGES_0">%d</xliff:g> üzenet egy beszélgetésben</item>
     </plurals>
     <string name="notification_download_failures_line1_singular" msgid="4424772073720626885">"Az üzenet nincs letöltve"</string>
-    <string name="notification_download_failures_line1_plural" msgid="1697982467160426345">"A Messaging egyes üzeneteit nem lehetett letölteni"</string>
+    <string name="notification_download_failures_line1_plural" msgid="1697982467160426345">"A Messages egyes üzeneteit nem lehetett letölteni"</string>
     <plurals name="notification_download_failures" formatted="false" msgid="5341490525457911398">
       <item quantity="other"><xliff:g id="MESSAGES_1">%d</xliff:g> üzenet <xliff:g id="CONVERSATIONS">%d</xliff:g> beszélgetésben</item>
       <item quantity="one"><xliff:g id="MESSAGES_0">%d</xliff:g> üzenet egy beszélgetésben</item>
@@ -145,7 +145,7 @@
     <string name="archived_toast_message" msgid="8109348891515322512">"<xliff:g id="COUNT">%d</xliff:g> archiválva"</string>
     <string name="unarchived_toast_message" msgid="5010777423084203833">"<xliff:g id="COUNT">%d</xliff:g> archiválása megszüntetve"</string>
     <string name="toast_after_setting_default_sms_app_for_message_send" msgid="2767997591700713113">"Minden készen áll. Érintse meg újra a Küldés lehetőséget."</string>
-    <string name="toast_after_setting_default_sms_app" msgid="2923745971897322476">"A Messaging sikeresen beállítva alapértelmezett SMS-alkalmazásként."</string>
+    <string name="toast_after_setting_default_sms_app" msgid="2923745971897322476">"A Messages sikeresen beállítva alapértelmezett SMS-alkalmazásként."</string>
     <plurals name="attachment_preview_close_content_description" formatted="false" msgid="5631719319690969981">
       <item quantity="other">Mellékletek elvetése</item>
       <item quantity="one">Melléklet elvetése</item>
@@ -168,7 +168,7 @@
     <string name="group_outgoing_successful_message_prefix" msgid="1593702642852987920">"Üzenet a(z) <xliff:g id="GROUP">%1$s</xliff:g> csoportnak: <xliff:g id="MESSAGE">%2$s</xliff:g>. Idő: <xliff:g id="TIME">%3$s</xliff:g>."</string>
     <string name="failed_message_content_description" msgid="7047161648867054936">"Sikertelen üzenet. Érintse meg az újrapróbáláshoz."</string>
     <string name="delete_subject_content_description" msgid="8910749398836396698">"Tárgy törlése"</string>
-    <string name="photo_view_activity_title" msgid="6556006393051918135">"Messaging-fotók"</string>
+    <string name="photo_view_activity_title" msgid="6556006393051918135">"Messages-fotók"</string>
     <plurals name="photos_saved_to_album" formatted="false" msgid="7529478299745446838">
       <item quantity="other"><xliff:g id="QUANTITY_2">%d</xliff:g> fotó mentve a következő albumba: <xliff:g id="ALBUMNAME_3">%s</xliff:g></item>
       <item quantity="one"><xliff:g id="QUANTITY_0">%d</xliff:g> fotó mentve a következő albumba: <xliff:g id="ALBUMNAME_1">%s</xliff:g></item>
@@ -293,8 +293,8 @@
     <string name="plus_one" msgid="9010288417554932581">"+1"</string>
     <string name="plus_n" msgid="8961547034116059566">"+%d"</string>
     <string name="sms_disabled" msgid="4988773371061820432">"SMS-ek letiltva"</string>
-    <string name="requires_default_sms_app_to_send" msgid="171048611973157166">"A küldéshez állítsa be, hogy a Messaging legyen az alapértelmezett SMS-alkalmazás"</string>
-    <string name="requires_default_sms_app" msgid="7477365167876194810">"A Messaging beállítása alapértelmezett SMS-alkalmazásként"</string>
+    <string name="requires_default_sms_app_to_send" msgid="171048611973157166">"A küldéshez állítsa be, hogy a Messages legyen az alapértelmezett SMS-alkalmazás"</string>
+    <string name="requires_default_sms_app" msgid="7477365167876194810">"A Messages beállítása alapértelmezett SMS-alkalmazásként"</string>
     <string name="requires_default_sms_change_button" msgid="6717443481161057941">"Módosítás"</string>
     <string name="no_preferred_sim_selected" msgid="8583927728936521140">"Nincs SIM kiválasztva az SMS-küldéshez"</string>
     <string name="requires_sms_permissions_message" msgid="2179684358095980506">"Az eszköz tulajdonosa nem engedélyezi ezt az alkalmazást."</string>
@@ -377,15 +377,15 @@
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"SIM kártya kiválasztása vagy a tárgy szerkesztése"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Hangfelvétel készítéséhez tartsa nyomva"</string>
     <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Új beszélgetés indítása"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"Messaging"</string>
-    <string name="widget_conversation_name" msgid="3900606239571892871">"Messaging"</string>
+    <string name="widget_title_content_description" msgid="5802836840910466231">"Messages"</string>
+    <string name="widget_conversation_name" msgid="3900606239571892871">"Messages"</string>
     <string name="widget_conversation_list_content_description" msgid="4137121313374868821">"Beszélgetéslista"</string>
     <string name="loading_conversations" msgid="2890879017729068514">"Beszélgetések betöltése"</string>
     <string name="loading_messages" msgid="3894765818932489665">"Üzenetek betöltése"</string>
     <string name="view_more_conversations" msgid="2430542054023217740">"További beszélgetések megtekintése"</string>
     <string name="view_more_messages" msgid="6463224009407336178">"További üzenetek megtekintése"</string>
     <string name="conversation_deleted" msgid="6088388615460305424">"Beszélgetés törölve"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"Beszélgetés törölve. Másik Messaging-beszélgetés megjelenítéséhez érintse meg."</string>
+    <string name="tap_to_configure" msgid="7591682335533041774">"Beszélgetés törölve. Másik Messages-beszélgetés megjelenítéséhez érintse meg."</string>
     <string name="update_destination_blocked" msgid="4577227174205233981">"Letiltva"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Letiltás visszavonva"</string>
     <string name="db_full" msgid="8459265782521418031">"Kevés a tárhely. Lehet, hogy bizonyos adatok elvesztek."</string>
@@ -395,7 +395,7 @@
     <string name="attachment_limit_reached_dialog_message_when_composing" msgid="2983376679583030373">"Távolítson el legalább egy mellékletet, majd próbálja újra."</string>
     <string name="attachment_limit_reached_dialog_message_when_sending" msgid="3917529855170816197">"Megpróbálhatja elküldeni az üzenetet, de előfordulhat, hogy az csak akkor lesz kézbesíthető, ha legalább egy mellékletet eltávolít."</string>
     <string name="video_attachment_limit_exceeded_when_sending" msgid="8545536951461996462">"Üzenetenként csak egy videót lehet küldeni. Távolítsa el a többi videót, és próbálja újra."</string>
-    <string name="attachment_load_failed_dialog_message" msgid="4917927407363303333">"A Messaging nem tudta betölteni a mellékletet."</string>
+    <string name="attachment_load_failed_dialog_message" msgid="4917927407363303333">"A Messages nem tudta betölteni a mellékletet."</string>
     <string name="attachment_limit_reached_send_anyway" msgid="2348790618093735551">"Küldés mindenképpen"</string>
     <string name="conversation_creation_failure" msgid="8597624563218724441">"Nem sikerült elindítani a beszélgetést"</string>
     <string name="selected_sim_content_message" msgid="4504796674843354505">"<xliff:g id="SELECTED_SIM">%s</xliff:g> kiválasztva"</string>

@@ -17,8 +17,8 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name" msgid="3062916848713424329">"Messaging"</string>
-    <string name="share_intent_label" msgid="6920483598866144717">"Messaging"</string>
+    <string name="app_name" msgid="3062916848713424329">"Messages"</string>
+    <string name="share_intent_label" msgid="6920483598866144717">"Messages"</string>
     <string name="share_intent_activity_label" msgid="2939454246983196756">"Select conversation"</string>
     <string name="action_settings" msgid="1329008122345201684">"Settings"</string>
     <string name="sendButtonContentDescription" msgid="8422114979691093956">"Send Message"</string>
@@ -28,9 +28,9 @@
     <string name="exit" msgid="1905187380359981199">"Exit"</string>
     <string name="settings_with_arrow" msgid="8534633224579301342">"Settings &gt;"</string>
     <string name="settings" msgid="1045695083932447399">"Settings"</string>
-    <string name="required_permissions_promo" msgid="3898014894175251590">"Messaging needs permission to SMS, Phone and Contacts."</string>
-    <string name="enable_permission_procedure" msgid="2778471831376319587">"You can change permissions in Settings &gt; Apps &gt; Messaging &gt; Permissions."</string>
-    <string name="enable_permission_procedure_description" msgid="8672121020793945630">"You can change permissions in Settings, Apps, Messaging, Permissions."</string>
+    <string name="required_permissions_promo" msgid="3898014894175251590">"Messages needs permission to SMS, Phone and Contacts."</string>
+    <string name="enable_permission_procedure" msgid="2778471831376319587">"You can change permissions in Settings &gt; Apps &gt; Messages &gt; Permissions."</string>
+    <string name="enable_permission_procedure_description" msgid="8672121020793945630">"You can change permissions in Settings, Apps, Messages, Permissions."</string>
     <string name="contact_picker_frequents_tab_title" msgid="7157326165824706883">"Frequents"</string>
     <string name="contact_picker_all_contacts_tab_title" msgid="1424746082040243161">"All contacts"</string>
     <string name="contact_list_send_to_text" msgid="3167455944684758290">"Send to <xliff:g id="DESTINATION">%s</xliff:g>"</string>
@@ -59,7 +59,7 @@
     <string name="class_0_message_activity" msgid="4603850264073169854">"Class 0 message"</string>
     <string name="save" msgid="5081141452059463572">"Save"</string>
     <string name="enter_phone_number_title" msgid="7263355879949248448">"Confirm your phone number"</string>
-    <string name="enter_phone_number_text" msgid="4539767473801195966">"This one-off step will ensure Messaging will deliver your group messages properly."</string>
+    <string name="enter_phone_number_text" msgid="4539767473801195966">"This one-off step will ensure Messages will deliver your group messages properly."</string>
     <string name="enter_phone_number_hint" msgid="6242965213882272822">"Phone number"</string>
     <string name="incoming_text_sender_content_description" msgid="2481078288502342745">"<xliff:g id="SENDER">%s</xliff:g> said"</string>
     <string name="outgoing_text_sender_content_description" msgid="3492116976256510272">"You said"</string>
@@ -82,13 +82,13 @@
     <string name="unknown_sender" msgid="504272434917395677">"Unknown sender"</string>
     <string name="delivered_status_content_description" msgid="3433965196058436991">"Delivered"</string>
     <string name="notification_send_failures_line1_singular" msgid="6783835440207655217">"Message not sent"</string>
-    <string name="notification_send_failures_line1_plural" msgid="7228944748028969272">"Some messages not sent in Messaging"</string>
+    <string name="notification_send_failures_line1_plural" msgid="7228944748028969272">"Some messages not sent in Messages"</string>
     <plurals name="notification_send_failures" formatted="false" msgid="6938919932879650691">
       <item quantity="other"><xliff:g id="MESSAGES_1">%d</xliff:g> messages in <xliff:g id="CONVERSATIONS">%d</xliff:g> conversations</item>
       <item quantity="one"><xliff:g id="MESSAGES_0">%d</xliff:g> messages in one conversation</item>
     </plurals>
     <string name="notification_download_failures_line1_singular" msgid="4424772073720626885">"Message not downloaded"</string>
-    <string name="notification_download_failures_line1_plural" msgid="1697982467160426345">"Some messages not downloaded in Messaging"</string>
+    <string name="notification_download_failures_line1_plural" msgid="1697982467160426345">"Some messages not downloaded in Messages"</string>
     <plurals name="notification_download_failures" formatted="false" msgid="5341490525457911398">
       <item quantity="other"><xliff:g id="MESSAGES_1">%d</xliff:g> messages in <xliff:g id="CONVERSATIONS">%d</xliff:g> conversations</item>
       <item quantity="one"><xliff:g id="MESSAGES_0">%d</xliff:g> messages in one conversation</item>
@@ -145,7 +145,7 @@
     <string name="archived_toast_message" msgid="8109348891515322512">"<xliff:g id="COUNT">%d</xliff:g> archived"</string>
     <string name="unarchived_toast_message" msgid="5010777423084203833">"<xliff:g id="COUNT">%d</xliff:g> unarchived"</string>
     <string name="toast_after_setting_default_sms_app_for_message_send" msgid="2767997591700713113">"All set. Touch Send again."</string>
-    <string name="toast_after_setting_default_sms_app" msgid="2923745971897322476">"Messaging successfully set as the default SMS app."</string>
+    <string name="toast_after_setting_default_sms_app" msgid="2923745971897322476">"Messages successfully set as the default SMS app."</string>
     <plurals name="attachment_preview_close_content_description" formatted="false" msgid="5631719319690969981">
       <item quantity="other">Discard attachments</item>
       <item quantity="one">Discard attachment</item>
@@ -168,7 +168,7 @@
     <string name="group_outgoing_successful_message_prefix" msgid="1593702642852987920">"Message to <xliff:g id="GROUP">%1$s</xliff:g>: <xliff:g id="MESSAGE">%2$s</xliff:g>. Time: <xliff:g id="TIME">%3$s</xliff:g>."</string>
     <string name="failed_message_content_description" msgid="7047161648867054936">"Failed message. Touch to retry."</string>
     <string name="delete_subject_content_description" msgid="8910749398836396698">"Delete subject"</string>
-    <string name="photo_view_activity_title" msgid="6556006393051918135">"Messaging photos"</string>
+    <string name="photo_view_activity_title" msgid="6556006393051918135">"Messages photos"</string>
     <plurals name="photos_saved_to_album" formatted="false" msgid="7529478299745446838">
       <item quantity="other"><xliff:g id="QUANTITY_2">%d</xliff:g> photos saved to \"<xliff:g id="ALBUMNAME_3">%s</xliff:g>\" album</item>
       <item quantity="one"><xliff:g id="QUANTITY_0">%d</xliff:g> photo saved to \"<xliff:g id="ALBUMNAME_1">%s</xliff:g>\" album</item>
@@ -293,8 +293,8 @@
     <string name="plus_one" msgid="9010288417554932581">"+1"</string>
     <string name="plus_n" msgid="8961547034116059566">"+%d"</string>
     <string name="sms_disabled" msgid="4988773371061820432">"SMS disabled"</string>
-    <string name="requires_default_sms_app_to_send" msgid="171048611973157166">"To send, set Messaging as the default SMS app"</string>
-    <string name="requires_default_sms_app" msgid="7477365167876194810">"Set Messaging as the default SMS app"</string>
+    <string name="requires_default_sms_app_to_send" msgid="171048611973157166">"To send, set Messages as the default SMS app"</string>
+    <string name="requires_default_sms_app" msgid="7477365167876194810">"Set Messages as the default SMS app"</string>
     <string name="requires_default_sms_change_button" msgid="6717443481161057941">"Change"</string>
     <string name="no_preferred_sim_selected" msgid="8583927728936521140">"No preferred SIM selected for sending SMS messages"</string>
     <string name="requires_sms_permissions_message" msgid="2179684358095980506">"This app isn\'t allowed by the device owner."</string>
@@ -377,15 +377,15 @@
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"Select SIM or edit subject"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Touch and hold to record audio"</string>
     <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Start new conversation"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"Messaging"</string>
-    <string name="widget_conversation_name" msgid="3900606239571892871">"Messaging"</string>
+    <string name="widget_title_content_description" msgid="5802836840910466231">"Messages"</string>
+    <string name="widget_conversation_name" msgid="3900606239571892871">"Messages"</string>
     <string name="widget_conversation_list_content_description" msgid="4137121313374868821">"Conversation list"</string>
     <string name="loading_conversations" msgid="2890879017729068514">"Loading conversations"</string>
     <string name="loading_messages" msgid="3894765818932489665">"Loading messages"</string>
     <string name="view_more_conversations" msgid="2430542054023217740">"View more conversations"</string>
     <string name="view_more_messages" msgid="6463224009407336178">"View more messages"</string>
     <string name="conversation_deleted" msgid="6088388615460305424">"Conversation deleted"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"Conversation deleted. Touch to show a different Messaging conversation"</string>
+    <string name="tap_to_configure" msgid="7591682335533041774">"Conversation deleted. Touch to show a different Messages conversation"</string>
     <string name="update_destination_blocked" msgid="4577227174205233981">"Blocked"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Unblocked"</string>
     <string name="db_full" msgid="8459265782521418031">"Storage space is low. Some data may be lost."</string>
@@ -395,7 +395,7 @@
     <string name="attachment_limit_reached_dialog_message_when_composing" msgid="2983376679583030373">"Please remove one or more attachments and try again."</string>
     <string name="attachment_limit_reached_dialog_message_when_sending" msgid="3917529855170816197">"You can try sending your message, but it might not be delivered unless you remove one or more attachments."</string>
     <string name="video_attachment_limit_exceeded_when_sending" msgid="8545536951461996462">"You can only send one video per message. Please remove additional videos and try again."</string>
-    <string name="attachment_load_failed_dialog_message" msgid="4917927407363303333">"Messaging failed to load attachment."</string>
+    <string name="attachment_load_failed_dialog_message" msgid="4917927407363303333">"Messages failed to load attachment."</string>
     <string name="attachment_limit_reached_send_anyway" msgid="2348790618093735551">"Send anyway"</string>
     <string name="conversation_creation_failure" msgid="8597624563218724441">"Could not start conversation"</string>
     <string name="selected_sim_content_message" msgid="4504796674843354505">"<xliff:g id="SELECTED_SIM">%s</xliff:g> selected"</string>

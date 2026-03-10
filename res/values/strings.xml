@@ -17,10 +17,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- The name of the application as it appears under the main Launcher icon and in various activity titles -->
-    <string name="app_name">Messaging</string>
+    <string name="app_name">Messages</string>
 
     <!-- The name of the application as it appears in external share intent dialogs -->
-    <string name="share_intent_label">Messaging</string>
+    <string name="share_intent_label">Messages</string>
     <!-- The title when selecting a conversation to share to -->
     <string name="share_intent_activity_label">Select conversation</string>
 
@@ -34,9 +34,9 @@
     <string name="settings_with_arrow">Settings &gt;</string>
     <string name="settings">Settings</string>
     <!-- Inform user of the names of permissions that are required to use the app -->
-    <string name="required_permissions_promo">Messaging needs permission to SMS, Phone and Contacts.</string>
-    <string name="enable_permission_procedure">You can change permissions in Settings > Apps > Messaging > Permissions.</string>
-    <string name="enable_permission_procedure_description">You can change permissions in Settings, Apps, Messaging, Permissions.</string>
+    <string name="required_permissions_promo">Messages needs permission to SMS, Phone and Contacts.</string>
+    <string name="enable_permission_procedure">You can change permissions in Settings > Apps > Messages > Permissions.</string>
+    <string name="enable_permission_procedure_description">You can change permissions in Settings, Apps, Messages, Permissions.</string>
 
     <!-- The tab header for the frequently used contacts list -->
     <string name="contact_picker_frequents_tab_title">Frequents</string>
@@ -90,7 +90,7 @@
     <!-- Title for asking the user to enter their phone number -->
     <string name="enter_phone_number_title">Confirm your phone number</string>
     <!-- Text for asking the user to enter their phone number -->
-    <string name="enter_phone_number_text">This one-time step will ensure Messaging will deliver your group messages properly.</string>
+    <string name="enter_phone_number_text">This one-time step will ensure Messages will deliver your group messages properly.</string>
     <!-- EditText hint for asking the user to enter their phone number -->
     <string name="enter_phone_number_hint">Phone number</string>
 
@@ -142,7 +142,7 @@
     <!-- notification line 1 for "there are some failed messages" -->
     <string name="notification_send_failures_line1_singular">Message not sent</string>
     <!-- notification line 1 for "there are some failed messages" -->
-    <string name="notification_send_failures_line1_plural">Some messages not sent in Messaging</string>
+    <string name="notification_send_failures_line1_plural">Some messages not sent in Messages</string>
     <plurals name="notification_send_failures">
         <item quantity="one"><xliff:g id="messages">%d</xliff:g> messages in one conversation</item>
         <item quantity="other"><xliff:g id="messages">%d</xliff:g> messages in <xliff:g id="conversations">%d</xliff:g> conversations</item>
@@ -150,7 +150,7 @@
     <!-- notification line 1 for download failed -->
     <string name="notification_download_failures_line1_singular">Message not downloaded</string>
     <!-- notification line 1 for multiple downloads failed -->
-    <string name="notification_download_failures_line1_plural">Some messages not downloaded in Messaging</string>
+    <string name="notification_download_failures_line1_plural">Some messages not downloaded in Messages</string>
     <plurals name="notification_download_failures">
         <item quantity="one"><xliff:g id="messages">%d</xliff:g> messages in one conversation</item>
         <item quantity="other"><xliff:g id="messages">%d</xliff:g> messages in <xliff:g id="conversations">%d</xliff:g> conversations</item>
@@ -263,7 +263,7 @@
     <!-- Toast shown when the user tries to send a message, and then sets Bugle as the default SMS app. -->
     <string name="toast_after_setting_default_sms_app_for_message_send">All set. Tap Send again.</string>
     <!-- Toast shown when the user successfully sets Bugle as the default SMS app. -->
-    <string name="toast_after_setting_default_sms_app">Messaging successfully set as the default SMS app.</string>
+    <string name="toast_after_setting_default_sms_app">Messages successfully set as the default SMS app.</string>
 
     <!-- Accessibility : Content descriptinon for ImageButtons and ImageViews -->
     <plurals name="attachment_preview_close_content_description">
@@ -296,7 +296,7 @@
     <!-- Accessibility : text read on the small X icon on the subject editor -->
     <string name="delete_subject_content_description">Delete subject</string>
 
-    <string name="photo_view_activity_title">Messaging photos</string>
+    <string name="photo_view_activity_title">Messages photos</string>
     <plurals name="photos_saved_to_album">
         <item quantity="one"><xliff:g id="quantity">%d</xliff:g> photo saved to \"<xliff:g id="albumName">%s</xliff:g>\" album</item>
         <item quantity="other"><xliff:g id="quantity">%d</xliff:g> photos saved to \"<xliff:g id="albumName">%s</xliff:g>\" album</item>
@@ -341,7 +341,7 @@
     <string name="auto_retrieve_mms_when_roaming_pref_title">Roaming auto-retrieve</string>
     <string name="auto_retrieve_mms_when_roaming_pref_summary">Automatically retrieve MMS when roaming</string>
     <string name="group_mms_pref_title">Group messaging</string>
-    <!-- Preference title: SMS enabled (Messaging is the default SMS app) -->
+    <!-- Preference title: SMS enabled (Messages is the default SMS app) -->
     <string name="sms_enabled_pref_title">Default SMS app</string>
     <!-- Preference summary: Current default SMS app -->
     <string name="default_sms_app"><xliff:g id="app_name">%s</xliff:g></string>
@@ -498,12 +498,12 @@
     <!-- Toast error shown when SMS functionality is disabled -->
     <string name="sms_disabled">SMS disabled</string>
 
-    <!-- Snackbar message that indicates users must set Messaging as their
+    <!-- Snackbar message that indicates users must set Messages as their
          default SMS application in order to send messages -->
-    <string name="requires_default_sms_app_to_send">To send, set Messaging as the default SMS app</string>
+    <string name="requires_default_sms_app_to_send">To send, set Messages as the default SMS app</string>
 
-    <!-- Snackbar message that indicates users must set Messaging as their default SMS application in order to perform the requested action. -->
-    <string name="requires_default_sms_app">Set Messaging as the default SMS app</string>
+    <!-- Snackbar message that indicates users must set Messages as their default SMS application in order to perform the requested action. -->
+    <string name="requires_default_sms_app">Set Messages as the default SMS app</string>
 
     <!-- Snackbar button text to switch default SMS apps shown in snackbar. -->
     <string name="requires_default_sms_change_button">Change</string>
@@ -694,9 +694,9 @@
     <!-- Content description for new conversation button in desktop widget -->
     <string name="widget_new_conversation_content_description">Start new conversation</string>
     <!-- Content description for widget title -->
-    <string name="widget_title_content_description">Messaging</string>
+    <string name="widget_title_content_description">Messages</string>
     <!-- Displayed name of the desktop widget that shows a single conversation-->
-    <string name="widget_conversation_name">Messaging</string>
+    <string name="widget_conversation_name">Messages</string>
     <!-- Content description for conversation list button in desktop widget -->
     <string name="widget_conversation_list_content_description">Conversation list</string>
     <!-- Shown when loading conversations in the widget -->
@@ -711,7 +711,7 @@
     <string name="conversation_deleted">Conversation deleted</string>
     <!-- Displayed when user adds a new conversation widget. Tapping on the widget in this
           mode will bring user to the conversation selection screen -->
-    <string name="tap_to_configure">Conversation deleted. Tap to show a different Messaging conversation</string>
+    <string name="tap_to_configure">Conversation deleted. Tap to show a different Messages conversation</string>
 
     <!-- Toast message telling the user that someone was blocked -->
     <string name="update_destination_blocked">Blocked</string>
@@ -738,7 +738,7 @@
     <string name="video_attachment_limit_exceeded_when_sending">You can only send one video per message.  Please remove additional videos and try again.</string>
 
     <!-- The dialog message content for when the message load failed -->
-    <string name="attachment_load_failed_dialog_message">Messaging failed to load attachment.</string>
+    <string name="attachment_load_failed_dialog_message">Messages failed to load attachment.</string>
 
     <!-- The option to send the message anyway when the user is presented with the warning that the attachment size might be over limit -->
     <string name="attachment_limit_reached_send_anyway">Send anyway</string>

@@ -30,7 +30,7 @@
     <string name="settings" msgid="1045695083932447399">"Setelan"</string>
     <string name="required_permissions_promo" msgid="3898014894175251590">"Perpesanan perlu izin ke SMS, Telepon, dan Kontak"</string>
     <string name="enable_permission_procedure" msgid="2778471831376319587">"Anda dapat mengubah izin di Setelan &gt; Aplikasi &gt; Perpesanan &gt; Izin."</string>
-    <string name="enable_permission_procedure_description" msgid="8672121020793945630">"Anda dapat mengubah izin di Setelan, Aplikasi, Messaging, Permissions."</string>
+    <string name="enable_permission_procedure_description" msgid="8672121020793945630">"Anda dapat mengubah izin di Setelan, Aplikasi, Messages, Permissions."</string>
     <string name="contact_picker_frequents_tab_title" msgid="7157326165824706883">"Sering"</string>
     <string name="contact_picker_all_contacts_tab_title" msgid="1424746082040243161">"Semua kontak"</string>
     <string name="contact_list_send_to_text" msgid="3167455944684758290">"Kirim ke <xliff:g id="DESTINATION">%s</xliff:g>"</string>
